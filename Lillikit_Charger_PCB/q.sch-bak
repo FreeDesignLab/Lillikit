@@ -1,0 +1,73 @@
+EESchema Schematic File Version 4
+LIBS:q-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R1
+U 1 1 5CFBB169
+P 2150 3150
+F 0 "R1" V 2050 3150 50  0000 C CNN
+F 1 "1k" V 2150 3150 50  0000 C CNN
+F 2 "Battery:BatteryHolder_Bulgin_BX0036_1xC" V 2080 3150 50  0001 C CNN
+F 3 "~" H 2150 3150 50  0001 C CNN
+	1    2150 3150
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5CFBE4D3
+P 2650 3150
+F 0 "D1" H 2650 3250 50  0000 C CNN
+F 1 "LED" H 2650 3050 50  0000 C CNN
+F 2 "Battery:BatteryHolder_Bulgin_BX0036_1xC" H 2650 3150 50  0001 C CNN
+F 3 "~" H 2650 3150 50  0001 C CNN
+	1    2650 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+5V #PWR01
+U 1 1 5D0224A2
+P 1750 2900
+F 0 "#PWR01" H 1750 2750 50  0001 C CNN
+F 1 "+5V" H 1765 3073 50  0000 C CNN
+F 2 "" H 1750 2900 50  0001 C CNN
+F 3 "" H 1750 2900 50  0001 C CNN
+	1    1750 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5D022E52
+P 1800 3650
+F 0 "#PWR02" H 1800 3400 50  0001 C CNN
+F 1 "GND" H 1805 3477 50  0000 C CNN
+F 2 "" H 1800 3650 50  0001 C CNN
+F 3 "" H 1800 3650 50  0001 C CNN
+	1    1800 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1750 2900 1750 3150
+Wire Wire Line
+	1750 3150 2000 3150
+Wire Wire Line
+	2300 3150 2500 3150
+Wire Wire Line
+	1800 3650 1800 3500
+Wire Wire Line
+	1800 3500 2800 3500
+Wire Wire Line
+	2800 3500 2800 3150
+$EndSCHEMATC
