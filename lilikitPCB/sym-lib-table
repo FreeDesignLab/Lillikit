@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name TP)(type Legacy)(uri ${KIPRJMOD}/TP.lib)(options "")(descr ""))
+  (lib (name DW)(type Legacy)(uri ${KIPRJMOD}/DW.lib)(options "")(descr ""))
+  (lib (name FS8205A)(type Legacy)(uri ${KIPRJMOD}/FS8205A.lib)(options "")(descr ""))
+  (lib (name LT1516)(type Legacy)(uri ${KIPRJMOD}/LT1516.lib)(options "")(descr ""))
+  (lib (name tp4056)(type Legacy)(uri C:/Users/DELL/Documents/LILIKIT/Kicad/kicad-libs-master/kicad-libs-master/tp4056.lib)(options "")(descr ""))
+)
