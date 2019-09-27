@@ -1,0 +1,25 @@
+### Module positions - created on 27/09/2019 08:17:32 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+C1        4µ7             C_0603_1608Metric                              85.0900  -107.9500    0.0000  top
+C2        0.1µF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    96.5200  -107.9500    0.0000  top
+C3        10µF            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    88.9000  -107.9500    0.0000  top
+C4        4µ7F            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   109.2200  -107.9500    0.0000  top
+C5        1nF              C_0603_1608Metric                             110.4900  -100.3300    0.0000  top
+C6        1µF             C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   100.3300   -95.2500    0.0000  top
+D1        D                D_0603_1608Metric                              88.9000  -102.8700    0.0000  top
+D2        D                D_0603_1608Metric                              92.7100  -102.8700    0.0000  top
+D3        MBR0540          D_SOD-123                                     106.6800   -95.2500    0.0000  top
+L1        4µH             L_7.3x7.3_H4.5                                106.6800   -87.6300  270.0000  top
+R1        1K               R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    88.9000   -97.7900    0.0000  top
+R2        1K               R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    92.7100   -97.7900    0.0000  top
+R3        1.2K             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    96.5200   -97.7900    0.0000  top
+R4        1K               R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    96.5200  -102.8700    0.0000  top
+R5        100              R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    92.7100  -107.9500  180.0000  top
+R6        68               R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    97.7900   -91.4400    0.0000  top
+U2        DW01A            SOT-23-6                                      100.3300  -100.3300  180.0000  top
+U3        FS8205A-TSSOP-8  SOT-23-6                                      105.4100  -100.3300    0.0000  top
+U4        LT1615           SOT-23-5                                       97.7900   -86.3600    0.0000  top
+## End

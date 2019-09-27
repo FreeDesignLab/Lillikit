@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-libs-master)(type KiCad)(uri C:/Users/DELL/Documents/LILIKIT/Kicad/kicad-libs-master/kicad-libs-master)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri C:/Users/DELL/Documents/LILIKIT/lilikitPCB/logo.prety)(options "")(descr ""))
+)

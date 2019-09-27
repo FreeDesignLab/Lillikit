@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = 31/08/2019 22:45:42
+
+BeginCmp
+TimeStamp = 5D36A509
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = logo:A;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE2AF
+Path = /5D2FE6AC
+Reference = D3;
+ValeurCmp = MBR0540;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2DBEDC
+Path = /5D2AF7DB
+Reference = J1;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2DCA76
+Path = /5D2BBC2A
+Reference = J2;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2DDF7B
+Path = /5D2BA606
+Reference = J3;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE2DB
+Path = /5D302593
+Reference = J4;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE2F4
+Path = /5D2D9458
+Reference = L1;
+ValeurCmp = 4µH;
+IdModule  = Inductor_SMD:L_7.3x7.3_H4.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE305
+Path = /5D289203
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE316
+Path = /5D289A47
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE327
+Path = /5D295603
+Reference = R3;
+ValeurCmp = 1.2K;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE338
+Path = /5D295FB1
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE349
+Path = /5D296B97
+Reference = R5;
+ValeurCmp = 100;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE35A
+Path = /5D2D8B54
+Reference = R6;
+ValeurCmp = 68;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE38D
+Path = /5D28828B
+Reference = U1;
+ValeurCmp = TP4056;
+IdModule  = kicad-libs-master:SOP-8-208mil;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE3AF
+Path = /5D29A989
+Reference = U2;
+ValeurCmp = DW01A;
+IdModule  = kicad-libs-master:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2CE3D1
+Path = /5D2A61C4
+Reference = U3;
+ValeurCmp = FS8205A-TSSOP-8;
+IdModule  = kicad-libs-master:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D2DED94
+Path = /5D2C9CA1
+Reference = U4;
+ValeurCmp = LT1615;
+IdModule  = kicad-libs-master:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36353F
+Path = /5D28C6F7
+Reference = C1;
+ValeurCmp = 4µ7;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36354F
+Path = /5D297F62
+Reference = C2;
+ValeurCmp = 0.1µF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36355F
+Path = /5D298874
+Reference = C3;
+ValeurCmp = 10µF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36356F
+Path = /5D2D0FF7
+Reference = C4;
+ValeurCmp = 4µ7F;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36357F
+Path = /5D2D1DB2
+Reference = C5;
+ValeurCmp = 1nF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36358F
+Path = /5D2D2A0C
+Reference = C6;
+ValeurCmp = 1µF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D36359F
+Path = /5D289BBE
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D3635B1
+Path = /5D28A667
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_0603_1608Metric;
+EndCmp
+
+EndListe
